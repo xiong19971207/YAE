@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04facd98-4622-4b25-9173-d0855995be40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gIOXfQn1br31qFlBz3VRMrNEM1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/bootstrap-3.3.7-dist/js" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\YAE\Desktop\YAE\static\bootstrap-3.3.7-dist\js" />
+      <recent name="C:\Users\YAE\Desktop\YAE\static" />
+      <recent name="C:\Users\YAE\Desktop\YAE\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.views">
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YAE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YAE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="YAE" type="Python.DjangoServer" factoryName="Django server">
+      <module name="YAE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="YAE.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04facd98-4622-4b25-9173-d0855995be40" name="Default Changelist" comment="" />
+      <created>1597798681003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597798681003</updated>
+      <workItem from="1597798684643" duration="16924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597799092495">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="690" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1597799092495" />
+    <state x="697" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597814316976">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="697" y="222" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1597814316976" />
+    <state width="2133" height="358" key="GridCell.Tab.0.bottom" timestamp="1597816384011">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="358" key="GridCell.Tab.0.bottom/0.0.2194.1194@0.0.2194.1194" timestamp="1597816384011" />
+    <state width="2133" height="358" key="GridCell.Tab.0.center" timestamp="1597816384010">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="358" key="GridCell.Tab.0.center/0.0.2194.1194@0.0.2194.1194" timestamp="1597816384010" />
+    <state width="2133" height="358" key="GridCell.Tab.0.left" timestamp="1597816384010">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="358" key="GridCell.Tab.0.left/0.0.2194.1194@0.0.2194.1194" timestamp="1597816384010" />
+    <state width="2133" height="358" key="GridCell.Tab.0.right" timestamp="1597816384011">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2133" height="358" key="GridCell.Tab.0.right/0.0.2194.1194@0.0.2194.1194" timestamp="1597816384011" />
+    <state x="371" y="68" key="SettingsEditor" timestamp="1597798701336">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="371" y="68" key="SettingsEditor/0.0.2194.1194@0.0.2194.1194" timestamp="1597798701336" />
+    <state x="950" y="440" width="435" height="346" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1597803850733">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="950" y="440" width="435" height="346" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.2194.1194@0.0.2194.1194" timestamp="1597803850733" />
+    <state x="569" y="135" key="com.intellij.database.dbimport.ImportDialog" timestamp="1597803983962">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="569" y="135" key="com.intellij.database.dbimport.ImportDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1597803983962" />
+    <state x="697" y="308" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1597803975494">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="697" y="308" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.2194.1194@0.0.2194.1194" timestamp="1597803975494" />
+    <state x="234" y="84" width="1649" height="1028" key="editAsTableFormatDialogDimension" timestamp="1597802332330">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="234" y="84" width="1649" height="1028" key="editAsTableFormatDialogDimension/0.0.2194.1194@0.0.2194.1194" timestamp="1597802332330" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/YAE$tests.coverage" NAME="tests Coverage Results" MODIFIED="1597801102401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/YAE$views.coverage" NAME="views Coverage Results" MODIFIED="1597805445410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+  </component>
+</project>

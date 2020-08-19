@@ -1,0 +1,45 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{% static 'bootstrap-3.3.7-dist/css/bootstrap.min.css' %}">
+
+    <meta charset="UTF-8">
+    <title>所有库龄数据</title>
+</head>
+<body>
+<table class="table table-striped">
+      <caption>库龄数据</caption>
+
+      <thead>
+        <tr>
+          <th>名称</th>
+          <th>城市</th>
+          <th>邮编</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>Tanmay</td>
+          <td>Bangalore</td>
+          <td>560001</td>
+        </tr>
+        <tr>
+          <td>Sachin</td>
+          <td>Mumbai</td>
+          <td>400003</td>
+        </tr>
+        <tr>
+          <td>Uma</td>
+          <td>Pune</td>
+          <td>411027</td>
+        </tr>
+      </tbody>
+</table>
+
+    <script src="{% static 'bootstrap-3.3.7-dist/js/jquery.min.js' %}"></script>
+    <script src="{% static 'bootstrap-3.3.7-dist/js/bootstrap.min.js' %}"></script>
+</body>
+</html>
